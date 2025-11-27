@@ -1,0 +1,5 @@
+nom,description,prix,categorie_id
+Stylo,Stylo bleu,200,06ddb662-2b13-411f-879a-b3beb58d0d77
+Cahier,Cahier 100 pages,500,06ddb662-2b13-411f-879a-b3beb58d0d77
+Ordinateur portable,Laptop 15 pouces,250000,06ddb662-2b13-411f-879a-b3beb58d0d77
+Smartphone,Telephone Android,150000,06ddb662-2b13-411f-879a-b3beb58d0d77

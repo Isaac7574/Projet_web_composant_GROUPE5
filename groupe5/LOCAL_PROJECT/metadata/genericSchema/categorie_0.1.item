@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_KQvEscknEfCXl9K_NaP_cg" name="repository.metadataGenericSchema" dataPackage="_KQvEssknEfCXl9K_NaP_cg"/>
+  <TalendMetadata:GenericPackage xmi:id="_KQvEssknEfCXl9K_NaP_cg" name="repository.metadataGenericSchema" dataManager="_KQvEscknEfCXl9K_NaP_cg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_KQvEs8knEfCXl9K_NaP_cg" id="_Co6XsMknEfCXl9K_NaP_cg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_KQvEtMknEfCXl9K_NaP_cg" name="libelle" label="libelle" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_KQvEtcknEfCXl9K_NaP_cg" name="description" label="description" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

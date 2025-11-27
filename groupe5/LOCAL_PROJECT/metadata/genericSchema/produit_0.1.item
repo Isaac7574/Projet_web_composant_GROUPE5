@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_qoq1UcknEfCXl9K_NaP_cg" name="repository.metadataGenericSchema" dataPackage="_qoq1UsknEfCXl9K_NaP_cg"/>
+  <TalendMetadata:GenericPackage xmi:id="_qoq1UsknEfCXl9K_NaP_cg" name="repository.metadataGenericSchema" dataManager="_qoq1UcknEfCXl9K_NaP_cg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_qoq1U8knEfCXl9K_NaP_cg" id="_LgxJMMknEfCXl9K_NaP_cg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_qoq1VMknEfCXl9K_NaP_cg" name="nom" label="nom" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_qoq1VcknEfCXl9K_NaP_cg" name="description" label="description" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_qoq1VsknEfCXl9K_NaP_cg" name="prix" label="prix" length="-1" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_qoq1V8knEfCXl9K_NaP_cg" name="categorie" label="categorie" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
