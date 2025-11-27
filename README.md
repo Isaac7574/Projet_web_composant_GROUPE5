@@ -51,7 +51,7 @@ Transformer si nécessaire
 Charger les données dans la base de destination (utilisée par Spring Boot)
 
 
-Installation de Spring Boot
+3. Installation de Spring Boot
 
 - Installer Java JDK 17+ et Maven 3+ :
   Vérification : java -version et mvn -v
@@ -94,7 +94,7 @@ Logs : api/v1/logs
 
 Actuator : /actuator/**
 
-Installation de Prometheus
+4. Installation de Prometheus
 
 - Télécharger Prometheus depuis https://prometheus.io/download/
 - Extraire l’archive dans un dossier de votre choix
