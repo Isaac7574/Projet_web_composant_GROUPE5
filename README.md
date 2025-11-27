@@ -1,4 +1,5 @@
 Projet : Application RESTful Spring Boot avec Talend et Prometheus
+
 1. Prérequis
 
 Avant de commencer, assurez-vous d’avoir installé :
@@ -61,31 +62,37 @@ Installation de Spring Boot
   mvn spring-boot:run
 - Vérifier les endpoints REST et les métriques Prometheus exposées
 
-Voici la listes des api de notre application
+Liste des API de l’application
 
-"/api/auth/**",
+Authentification : /api/auth/**
 
-"api/v1/categorie/liste",
+Catégories :
 
-"api/v1/logs","/actuator/**"
+api/v1/categorie/liste
 
-"/api/v1/produit/creer",
-
-"api/v1/idProduit/{idProduit}/idCategorie/{idCategorie}",
-
-"/api/v1/produit/liste",
-
-"/api/v1/categorie/creer",
-
-"api/v1/produit/update/{id}",
-
-"api/v1/produit/consulter/{id}",
-
-"api/v1/produit/delete/{id}"
+api/v1/categorie/creer
 
 api/v1/categorie/delete/{id}
 
 api/v1/categorie/update/{id}
+
+Produits :
+
+api/v1/produit/creer
+
+api/v1/idProduit/{idProduit}/idCategorie/{idCategorie}
+
+api/v1/produit/liste
+
+api/v1/produit/update/{id}
+
+api/v1/produit/consulter/{id}
+
+api/v1/produit/delete/{id}
+
+Logs : api/v1/logs
+
+Actuator : /actuator/**
 
 Installation de Prometheus
 
