@@ -1,3 +1,11 @@
+Membre :
+SOULI Ratamanegre Isaac Cedric
+SEBOGO Mahamadi
+DONOU YE Christian 
+PILABRE Athanase
+
+
+
 Projet : Application RESTful Spring Boot avec Talend et Prometheus
 
 1. Prérequis
